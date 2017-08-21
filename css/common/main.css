@@ -1,0 +1,11 @@
+.QTitles{
+    color:gray;
+    text-align: center;
+}
+
+.QCopyRight{
+    color: white;
+    background-color: #282828;
+    text-align: center;
+    padding: 5px;
+}
